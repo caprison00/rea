@@ -22,6 +22,7 @@
   "enabledPlugins": {
     "superpowers@superpowers-marketplace": true,
     "ui-ux-pro-max@ui-ux-pro-max-skill": true,
-    "taste-skill@taste-skill": true
+    "taste-skill@taste-skill": true,
+    "taste-skill-classics@taste-skill": true
   }
 }
